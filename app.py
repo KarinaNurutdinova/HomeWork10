@@ -1,5 +1,5 @@
 from utils import load_candidates, get_all, get_by_pk, get_by_skill
-from flask import Flask, request, render_template
+from flask import Flask
 
 
 def main():
